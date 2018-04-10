@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pinyououg-cart-web:war exploded">
+    <output-path>$PROJECT_DIR$/pinyououg-cart-web/target/pinyououg-cart-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pinyououg-cart-web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/pinyououg-cart-web/target/pinyououg-cart-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="pinyououg-cart-web/web/Web" />
+    </root>
+  </artifact>
+</component>

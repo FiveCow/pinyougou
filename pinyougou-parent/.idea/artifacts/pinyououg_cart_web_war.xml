@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyououg-cart-web:war">
+    <output-path>$PROJECT_DIR$/pinyououg-cart-web/target</output-path>
+    <root id="archive" name="pinyououg-cart-web.war">
+      <element id="artifact" artifact-name="pinyououg-cart-web:war exploded" />
+    </root>
+  </artifact>
+</component>
